@@ -40,3 +40,4 @@ git commit -am "added jollibee picture"
    fashion as above.
 
 Did the edits show up on github?
+yes
